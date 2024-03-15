@@ -330,7 +330,7 @@ export default class FontColorPlugin extends Plugin {
 	}
 
 	onunload() {
-
+		settings = null;
 	}
 
 	async loadSettings() {
