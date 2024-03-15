@@ -229,6 +229,7 @@ var FontColorPlugin = class extends import_obsidian.Plugin {
     this.addSettingTab(new FontColorSettingTab(this.app, this));
   }
   onunload() {
+    settings = null;
   }
   async loadSettings() {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
