@@ -3,7 +3,7 @@
 > Simply clone the code in the following path ☟
 
 ```
-obsidianNotePath/.obsidian/plugins/obsidian-font-color-plugin/
+obsidianNotePath/.obsidian/plugins/
 ```
 
 > Just box the text and then right mouse click to select the desired color ☟
