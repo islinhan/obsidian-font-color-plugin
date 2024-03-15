@@ -1,0 +1,11 @@
+{
+	"id": "font_color_plugin",
+	"name": "Font Color",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Using color fonts in notes.",
+	"author": "islinhan",
+	"authorUrl": "https://github.com/islinhan",
+	"fundingUrl": "https://github.com/islinhan/obsidian-font-color-plugin",
+	"isDesktopOnly": false
+}

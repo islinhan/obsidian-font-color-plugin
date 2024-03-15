@@ -1,0 +1,10 @@
+{
+	"name": "obsidian-font-color-plugin",
+	"version": "0.0.1",
+	"description": "Edit text using colored fonts",
+	"main": "main.js",
+	"scripts": {},
+	"keywords": ["font","color"],
+	"author": "islinhan",
+	"license": "MIT"
+}

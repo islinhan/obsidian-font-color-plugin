@@ -1,0 +1,13 @@
+{
+  "labelName": "font",
+  "className": [
+    "red",
+    "green",
+    "blue",
+	"orange",
+	"yellow",
+	"purple",
+	"indigo",
+	"free"
+  ]
+}
