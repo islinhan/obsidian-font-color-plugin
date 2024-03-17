@@ -188,7 +188,7 @@ var FontColorPlugin = class extends import_obsidian.Plugin {
                 if (selection == null || selection.length == 0)
                   return;
                 const cStr = new ControllableString(selection);
-                if (cStr.type == settings.labelName) {
+                if (cStr.isLegal === true && cStr.type == settings.labelName) {
                   cStr.changePropertyValue("class", (text) => {
                     if (text.length == 0)
                       return settings.className[i];
